@@ -5,3 +5,4 @@ How to install Dbeaver steps :
  3. Klik install dan next
  4. Kemudian kita diperintahkan untuk mengextract file
  5. Setelah itu aplikasi siap digunakan
+    
